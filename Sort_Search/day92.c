@@ -20,3 +20,5 @@ int main() {
     printf("%d\n", ternarySearch(arr, 0, n - 1, target));
     return 0;
 }
+
+// session 2
