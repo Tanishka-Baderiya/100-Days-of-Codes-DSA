@@ -36,3 +36,5 @@ int main() {
     KMP(text, pat);
     return 0;
 }
+
+// session 2
